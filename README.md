@@ -1,2 +1,3 @@
 # python
 sample script python
+ script for flood on irc with proxy list ....
